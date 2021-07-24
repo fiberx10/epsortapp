@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f333b06d.chunk.css",
+    "main.js": "/static/js/main.9a8145db.chunk.js",
+    "main.js.map": "/static/js/main.9a8145db.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.616a2c50.js",
+    "runtime-main.js.map": "/static/js/runtime-main.616a2c50.js.map",
+    "static/js/2.0751a536.chunk.js": "/static/js/2.0751a536.chunk.js",
+    "static/js/2.0751a536.chunk.js.map": "/static/js/2.0751a536.chunk.js.map",
+    "static/js/3.3a93ee61.chunk.js": "/static/js/3.3a93ee61.chunk.js",
+    "static/js/3.3a93ee61.chunk.js.map": "/static/js/3.3a93ee61.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f333b06d.chunk.css.map": "/static/css/main.f333b06d.chunk.css.map",
+    "static/js/2.0751a536.chunk.js.LICENSE.txt": "/static/js/2.0751a536.chunk.js.LICENSE.txt",
+    "static/media/bigheader.css": "/static/media/img_2.ad45dd36.jpg",
+    "static/media/hitradio.af2583ed.png": "/static/media/hitradio.af2583ed.png",
+    "static/media/img_1.e84ed74f.jpg": "/static/media/img_1.e84ed74f.jpg",
+    "static/media/logo.238fbade.png": "/static/media/logo.238fbade.png",
+    "static/media/search3.d59fb940.png": "/static/media/search3.d59fb940.png",
+    "static/media/up-arrow.8c594ba5.png": "/static/media/up-arrow.8c594ba5.png",
+    "static/media/xhub.3e1e0044.png": "/static/media/xhub.3e1e0044.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.616a2c50.js",
+    "static/js/2.0751a536.chunk.js",
+    "static/css/main.f333b06d.chunk.css",
+    "static/js/main.9a8145db.chunk.js"
+  ]
+}
